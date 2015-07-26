@@ -1,2 +1,3 @@
-testArray = ["raspberry", "blackberry", "nectarine", "kumquat"]
-print testArray.permutation(4).to_a
+winningData = {"winningWord" => "word", "winningDegree" => 0}
+
+puts winningData["winningWord"]
