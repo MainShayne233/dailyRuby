@@ -29,3 +29,4 @@ def largestGarland(file)
 	return winningData
 end
 
+puts largestGarland('enable1.txt')
