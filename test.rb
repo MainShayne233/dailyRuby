@@ -1,2 +1,2 @@
-input = File.readlines(deColumnizingInput1.txt)
+input = "H".downcase
 print input

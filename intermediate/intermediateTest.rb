@@ -1,2 +1,1 @@
-array = ["h", "e", "y"].compact!
-print array
+puts "fooXXXbar".include?("XXX")
