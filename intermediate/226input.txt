@@ -1,9 +1,1 @@
-C  d
-D  d
-D  b
-C  f
-C  c
-B  a
-A  d
-G  e
-E  g
+A d

@@ -1,1 +1,1 @@
-puts "fooXXXbar".include?("XXX")
+puts "A".ord
