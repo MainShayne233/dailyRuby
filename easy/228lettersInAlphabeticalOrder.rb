@@ -1,0 +1,1 @@
+for w in File.read('l.txt').split(" "); print w; print w.chars.sort.join==w ? "" : "NOT"; puts " IN ORDER"; end;
